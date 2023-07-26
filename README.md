@@ -14,4 +14,3 @@ Requirements:
 3. User Experience: Gradio Chat interface - https://www.gradio.app/guides/creating-a-custom-chatbot-with-blocks
         import gradio
 
-4. 
