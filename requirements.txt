@@ -1,6 +1,10 @@
-import openai
-import numpy
-import pandas as pd
-import os
+Python environment - VScode,JupyterNB 
 
+Utilize relevant libraries and frameworks for building the chatbot:
+    import openai
+    import numpy
+    import pandas as pd
+    import os
+
+OPENAI - API Key
 OPENAI_KPI_KEY = "Openai_api_key"
