@@ -1,0 +1,12 @@
+#Chat completion API call
+
+OPENAI_KPI_KEY = "sk-####"
+openai.api_key = OPENAI_KPI_KEY
+
+openai.ChatCompletion.create(
+    model="gpt-3.5-turbo",
+    messages=[
+        {'role': 'system', 'content': 'Act as an AI assistant'},
+        {'role': 'user', 'content': 'Hello! How are you'}
+    ]
+)
