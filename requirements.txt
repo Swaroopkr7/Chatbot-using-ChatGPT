@@ -1,0 +1,6 @@
+import openai
+import numpy
+import pandas as pd
+import os
+
+OPENAI_KPI_KEY = "Openai_api_key"
